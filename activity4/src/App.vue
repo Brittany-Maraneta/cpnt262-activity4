@@ -5,20 +5,25 @@ import About from "./components/About.vue";
 import Contact from "./components/Contact.vue";
 import { ref } from "vue";
 
+//Nav Bar: Component 1
 const routes = [
   { path: "/", component: Home },
   { path: "/about", component: About },
   { path: "/contact", component: Contact },
 ];
 
+//Data Binding practice - calling from script
 const heroMessage = "Hello, welcome to my page!";
 const isVisible = ref(true);
 
+//Component 2: Button
+//Conditional Ex using Buttons
 const handleClickAndToggleVisibility = () => {
   handleClick();
   toggleVisibility();
 };
 
+//Events handling using buttons
 const handleClick = () => {
   console.log("Button clicked!");
 };
