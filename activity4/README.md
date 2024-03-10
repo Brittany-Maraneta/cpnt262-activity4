@@ -1,29 +1,9 @@
-#  activity4
+# CPNT 262 Mini Activity 4 - Framework Reactivity
 
-This template should help get you started developing with Vue 3 in Vite.
+## Brittany Maraneta
 
-## Recommended IDE Setup
+## Code Journal
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+I am so proud of myself as, doing this project I use a lot of our practice in class but also just trying to remember how I put the functions in CodePen. A lot of the demoing in class recently has been helping me a lot to understand vue and understand JS a bit more too!
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+I struggled with making it work on GitHub pages where I had to ask people/Ashlyn to figure out how do I get it to work on GitHub pages and not have a 404.
