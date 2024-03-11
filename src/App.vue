@@ -6,7 +6,6 @@ import Header from "./components/Header.vue";
 import Main from "./components/Main.vue";
 import { ref } from "vue";
 
-// Nav Bar: Component 1
 const routes = [
   { path: "/", component: Home },
   { path: "/about", component: About },
