@@ -37,7 +37,7 @@ const toggleVisibility = () => {
 <style scoped>
 .header {
   background-image: url("https://images.pexels.com/photos/414659/pexels-photo-414659.jpeg");
-  background-size: 100%; /* Make the background image cover the entire width */
+  background-size: 100%;
   background-position: center;
   height: 500px;
   display: flex;
@@ -54,6 +54,12 @@ const toggleVisibility = () => {
   margin-top: 20px;
   background-color: gray;
   color: white;
+}
+
+.button :hover {
+  color: black;
+  background-color: lightgray;
+  cursor: pointer;
 }
 
 @media (max-width: 768px) {

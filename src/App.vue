@@ -3,6 +3,7 @@ import Home from "./components/Home.vue";
 import About from "./components/About.vue";
 import Contact from "./components/Contact.vue";
 import Header from "./components/Header.vue";
+import Main from "./components/Main.vue";
 import { ref } from "vue";
 
 // Nav Bar: Component 1
@@ -23,6 +24,7 @@ const routes = [
   </nav>
 
   <Header />
+  <Main />
 </template>
 
 <style scoped>
